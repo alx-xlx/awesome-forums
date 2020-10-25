@@ -1,8 +1,7 @@
+![](images/awesome-forums.jpg)
+
 # awesome-forums
  List of forum, Q&A, discussion and bulletin boards
-
-
-[]() - | [Demo]()
 
 [bbPress](http://bbpress.org/) | [Demo](https://bbpress.org/forums/) - bbPress is focused on web standards, ease of use, ease of integration, and speed
 
@@ -27,8 +26,6 @@
 [FUDforum](http://fudforum.org/) | [Demo](http://fudforum.org/forum/index.php) - FUDforum is an extremely fast and scalable forum that can fulfill the needs of both small and large forum operators.
 
 [GroupServer](http://groupserver.org/) | [Demo]() - GroupServer is developed by OnlineGroups.net, where groups can collaborate easily using email.
-
-[idealBB](http://www.idealscience.com/) | [Demo]() -
 
 [Invision Power Board](https://invisioncommunity.com/) | [Demo](https://invisioncommunity.com/clientarea/demo/) - IP.Board gives users the tools and features they need to participate easily and use the tools to manage focus and drive growth.
 
@@ -55,6 +52,8 @@
 [Phorum](http://www.phorum.org/) | [Demo](https://www.phorum.org/phorum5/index.php) - Phorum is open source forum software with a penchant for speed. Phorum's very flexible hook and module system can satisfy every web master's needs.
 
 [phpBB](http://www.phpbb.com/) | [Demo](https://www.phpbb.com/community/) - phpBB is a free flat-forum bulletin board software solution that can be used to stay in touch with a group of people or can power your entire website.
+
+[punBB](https://punbb.informer.com/) | [Demo](https://punbb.informer.com/forums/) - PunBB is a fast and lightweight PHP-powered discussion board.
 
 [SMF](https://simplemachines.org/) | [Demo](https://www.simplemachines.org/community/) - Simple Machines Forum - SMF in short - is a free, professional grade software package that allows you to set up your own online community within minutes.
 
@@ -84,16 +83,3 @@
 
 [YetAnotherForum.NET](http://www.yetanotherforum.net/) | [Demo](http://www.yetanotherforum.net/forum/forum) - YAF is a Open Source discussion forum or bulletin board system for web sites running ASP.NET. The latest version is ASP.NET v2.0 with a Microsoft SQL Server backend. The full C# source code is available licensed as GPL.
 
-[]() | [Demo]() - 
-
-[]() | [Demo]() - 
-
-[]() | [Demo]() - 
-
-[]() | [Demo]() - 
-
-[]() | [Demo]() - 
-
-[]() | [Demo]() - 
-
-[](https://punbb.informer.com/) | [Demo](https://punbb.informer.com/forums/) - PunBB is a fast and lightweight PHP-powered discussion board.
