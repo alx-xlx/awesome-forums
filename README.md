@@ -20,33 +20,33 @@
 
 [FluxBB](http://fluxbb.org/) | [Demo](https://fluxbb.org/forums/index.php) - FluxBB is conceived and designed to be fast and light with less of the "not so essential" features that some of the other forums have whilst not sacrificing essential functionality or usability. FluxBB is a fork of PunBB.
 
-[]() | [Demo]() -
+[FUDforum](http://fudforum.org/) | [Demo](http://fudforum.org/forum/index.php) - FUDforum is an extremely fast and scalable forum that can fulfill the needs of both small and large forum operators.
 
-[]() | [Demo]() -
+[GroupServer](http://groupserver.org/) | [Demo]() - GroupServer is developed by OnlineGroups.net, where groups can collaborate easily using email.
 
-[]() | [Demo]() -
+[idealBB](http://www.idealscience.com/) | [Demo]() -
 
-[]() | [Demo]() -
+[Invision Power Board](https://invisioncommunity.com/) | [Demo](https://invisioncommunity.com/clientarea/demo/) - IP.Board gives users the tools and features they need to participate easily and use the tools to manage focus and drive growth.
 
-[]() | [Demo]() -
+[JForum](http://www.jforum.net/) | [Demo]() - JForum (aka JForum2) is a powerful forum software built as a Java web app.
 
-[]() | [Demo]() -
+[Jitbit AspNetForum](https://www.jitbit.com/asp-net-forum/) | [Demo](https://demoforum.jitbit.com/forum/) - Jitbit Forum is an ASP.NET forum/discussion board software. Download and add an forum to your ASP.NET-based site in seconds.
 
-[]() | [Demo]() -
+[Jive Forums](http://www.jivesoftware.com/products/forums) | [Demo](https://www.jivesoftware.com/product/demo/) - Created for general-purpose, Enterprise-class communities
 
-[]() | [Demo]() -
+[miniBB](http://www.minibb.com/) | [Demo](http://minibb.org/minibb-test.php) - miniBB ("mini bulletin board") is a free web forum software script written in PHP for creating an online virtual community,
 
-[]() | [Demo]() -
+[Monkey Boards](https://github.com/jamiefdhurst/monkey-boards) | [Demo](https://imdb1.freeforums.net/) - Monkey Boards is a small, fast and lightweight discussion board. | [1](https://sourceforge.net/projects/monkeyboards/)
 
-[]() | [Demo]() -
+[MyBB](http://www.mybb.com/) | [Demo](https://community.mybb.com/) - MyBB is a powerful, efficient and free forum package developed in PHP and MySQL.
 
-[]() | [Demo]() -
+[MyUPB](http://www.myupb.com/) | [Unofficial Demo](http://www.basildon.com/upb/) - MyUPB is a flat file bulletin board powered by TextDB, an in house production of PHP Outburst.
 
-[]() | [Demo]() -
+[NoNonsense Forum](http://camendesign.com/nononsense_forum) | [Demo](http://forum.camendesign.com/) - NoNonsense Forum is a PHP-based simple discussion forum. It favours removing barriers to conversation rather than massaging egos.
 
-[]() | [Demo]() -
+[OvBB](http://sourceforge.net/projects/ovbb) | [Demo]() - OvBB is a light-weight and fast discussion board system that mimics vBulletin 2.x.x in both look and behavior while incorporating new features and functionality.
 
-[]() | [Demo]() -
+[Phorum](http://www.phorum.org/) | [Demo]() - Phorum is open source forum software with a penchant for speed. Phorum's very flexible hook and module system can satisfy every web master's needs.
 
 []() | [Demo]() -
 
