@@ -1,22 +1,26 @@
 # awesome-forums
- List of forum/discussion boards
+ List of forum, Q&A, discussion and bulletin boards
 
 
 []() - | [Demo]()
 
-[bbPress](http://bbpress.org/) - | [Demo](https://bbpress.org/forums/)
+[bbPress](http://bbpress.org/) | [Demo](https://bbpress.org/forums/) - bbPress is focused on web standards, ease of use, ease of integration, and speed
 
-[Beehive Forum](http://www.beehiveforum.co.uk/) - | [Demo](https://www.beehiveforum.co.uk/demo/)
+[Beehive Forum](http://www.beehiveforum.co.uk/) | [Demo](https://www.beehiveforum.co.uk/demo/) - Beehive is a Free and Open Source forum system. The key feature which sets Beehive apart is its user-friendly split-pane view, showing the thread list on the left and messages on the right.
 
-[bttlxeForum](http://www.codeproject.com/KB/asp/aspforum-n-membersys.aspx) - | [Demo](http://forums.bttlxe.com/)
+[bttlxeForum](http://www.codeproject.com/KB/asp/aspforum-n-membersys.aspx) | [Demo](http://forums.bttlxe.com/) - Written entirely in Active Server Pages and is designed to run under Microsoft Windows platforms supporting ASP 3.0 or later and supporting a variety of common database formats, bttlxeForum 2.0 is supplied free of charge with a software-based installer to allow you to easily install and configure it on your testing and live web servers.
 
-[BurningBoard](https://www.woltlab.com/wbb/) - | [Demo](https://www.woltlab.com/demo/)
+[BurningBoard](https://www.woltlab.com/wbb/) | [Demo](https://www.woltlab.com/demo/) - Burning Board offers all features you can expect from a professional discussion board, packed in a beautiful CSS-based design
 
-[DjangoBB](http://djangobb.org/) - | [Demo](http://support.djangobb.org/)
+[Discourse](https://www.discourse.org/) | [Demo](https://meta.discourse.org/) - Discourse is a Civilized discussion board for your Community
+
+[DjangoBB](http://djangobb.org/) | [Demo](http://support.djangobb.org/) - DjangoBB is a quick and simple forum which uses the Django Framework (written in Python language). Abbreviation DjangoBB stands for Django Bulletin Board.
 
 [dnfBB](http://sourceforge.net/projects/dnfbb) - dnfBB is a powerful and fast 3 Tier, C# discussion board or forum for websites running ASP.NET. Native support for multiple forums within the same db structure. Designed to work with Firebird and MySQL | [Demo]()
 
 [EvilBoard](http://sourceforge.net/projects/evilboard) - EvilBoard is a Powerfull Forum Software for people looking for a easy to use Forum, with WYSIWYG Editor, and a easy-use Admin Panel | [Demo]()
+
+[Flarum](https://flarum.org/) | [Demo](https://discuss.flarum.org/) - Flarum is a delightfully simple discussion platform for your website. It's fast and easy to use, with all the features you need to run a successful community.
 
 [FluxBB](http://fluxbb.org/) | [Demo](https://fluxbb.org/forums/index.php) - FluxBB is conceived and designed to be fast and light with less of the "not so essential" features that some of the other forums have whilst not sacrificing essential functionality or usability. FluxBB is a fork of PunBB.
 
@@ -41,6 +45,8 @@
 [MyBB](http://www.mybb.com/) | [Demo](https://community.mybb.com/) - MyBB is a powerful, efficient and free forum package developed in PHP and MySQL.
 
 [MyUPB](http://www.myupb.com/) | [Unofficial Demo](http://www.basildon.com/upb/) - MyUPB is a flat file bulletin board powered by TextDB, an in house production of PHP Outburst.
+
+[NodeBB](https://nodebb.org/) | [Demo](https://try.nodebb.org/) - NodeBB is next generation forum software. It's powerful, mobile-ready and easy to use.
 
 [NoNonsense Forum](http://camendesign.com/nononsense_forum) | [Demo](http://forum.camendesign.com/) - NoNonsense Forum is a PHP-based simple discussion forum. It favours removing barriers to conversation rather than massaging egos.
 
