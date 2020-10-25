@@ -46,10 +46,48 @@
 
 [OvBB](http://sourceforge.net/projects/ovbb) | [Demo]() - OvBB is a light-weight and fast discussion board system that mimics vBulletin 2.x.x in both look and behavior while incorporating new features and functionality.
 
-[Phorum](http://www.phorum.org/) | [Demo]() - Phorum is open source forum software with a penchant for speed. Phorum's very flexible hook and module system can satisfy every web master's needs.
+[Phorum](http://www.phorum.org/) | [Demo](https://www.phorum.org/phorum5/index.php) - Phorum is open source forum software with a penchant for speed. Phorum's very flexible hook and module system can satisfy every web master's needs.
 
-[]() | [Demo]() -
+[phpBB](http://www.phpbb.com/) | [Demo](https://www.phpbb.com/community/) - phpBB is a free flat-forum bulletin board software solution that can be used to stay in touch with a group of people or can power your entire website.
 
-[]() | [Demo]() -
+[SMF](https://simplemachines.org/) | [Demo](https://www.simplemachines.org/community/) - Simple Machines Forum - SMF in short - is a free, professional grade software package that allows you to set up your own online community within minutes.
+
+[TikiWiki CMS-Groupware](https://info.tiki.org/) | [Demo](https://demo.tiki.org/) - Tiki Wiki CMS Groupware is a full-featured, web-based, multilingual (40+ languages), tightly integrated, all-in-one Wiki+CMS+Groupware, Free Source Software (GNU/LGPL), using PHP, MySQL, Zend Framework, jQuery and Smarty
+
+[TinyBB](http://www.tinybb.org/) | [Demo]() - TinyBB is a light open source forum project created by Jake Steele
+
+[UBB.threads](https://www.ubbcentral.com/) | [Demo](https://www.ubbcentral.com/forums/) - UBB.threads is a full featured forum with over 13 years of development history. Many of the features that have become standard today started long ago in UBB.threads.
+
+[UltraBB](https://ultrabb.net/) | [Demo](http://ultrabb.net/forum/) - UltraBB is a user friendly bulletin board software with an active community of satisfied customers and a staff that has a proven track record of speedy service and frequent updates.
+
+[Unclassified NewsBoard](http://newsboard.unclassified.de/) | [Demo](http://newsboard.unclassified.de/forum) - The Unclassified NewsBoard (short UNB) is an open-source, PHP-based internet bulletin board system, mostly like those you may already know.
+
+[Vanilla](https://vanillaforums.com/en/software/) | [Demo](https://vanillaforums.com/en/showcase/) - Vanilla allows you to create a customized community that rewards positive participation, automatically curates content and lets members drive moderation.
+
+[vBulletin](http://www.vbulletin.com/) | [Demo](https://forum.vbulletin.com/) - vBulletin is a professional and affordable community forum solution.
+
+[Viscacha](http://www.viscacha.org/) | [Demo](https://mamo-net.de/showforum.php?id=17&language=2) - Viscacha is a free bulletin board system with an integrated content management system.
+
+[XenForo](http://xenforo.com/) | [Demo](https://xenforo.com/community/) - Xenforo is a professional community software developed by Kier Darby and Mike Sullivan. XenForo prides itself not only in its vast array of innovative social engagement features, but also in its superior quality stability
+
+[XMB](http://www.xmbforum2.com/) | [Demo](https://forums.xmbforum2.com/) - XMB is a lightweight forum software with all the features you need to support a growing community.
+
+[YaBB](http://www.yabbforum.com/) | [Demo](http://www.yabbforum.com/cgi-bin/community/YaBB.pl) - YaBB is a leading FREE forum software package that rivals professional message boards and has existed since 2000! It provides a chat and support system for your visitors.
+
+[Yazd](http://www.forumsoftware.ca/) | [Demo]() - Yazd discussion forum is an open and free Java based discussion forum software.
+
+[YetAnotherForum.NET](http://www.yetanotherforum.net/) | [Demo](http://www.yetanotherforum.net/forum/forum) - YAF is a Open Source discussion forum or bulletin board system for web sites running ASP.NET. The latest version is ASP.NET v2.0 with a Microsoft SQL Server backend. The full C# source code is available licensed as GPL.
+
+[]() | [Demo]() - 
+
+[]() | [Demo]() - 
+
+[]() | [Demo]() - 
+
+[]() | [Demo]() - 
+
+[]() | [Demo]() - 
+
+[]() | [Demo]() - 
 
 [](https://punbb.informer.com/) | [Demo](https://punbb.informer.com/forums/) - PunBB is a fast and lightweight PHP-powered discussion board.
