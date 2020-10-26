@@ -1,11 +1,4 @@
-![]()
-
-# awesome-forums
-
-
-
-
-﻿<div align="center">
+<div align="center">
 <img src="https://github.com/alx-xlx/awesome-forums/raw/main/images/awesome-forums.jpg" alt="awesome-forums" height="">
 
 </div>
@@ -19,8 +12,16 @@
 
 </div>
 
+﻿<div align="center">
+<h3>List of forum, Q&A, discussion and bulletin boards</h3>
 
-List of forum, Q&A, discussion and bulletin boards
+
+
+</div>
+
+----
+
+
 
 [bbPress](http://bbpress.org/) | [Demo](https://bbpress.org/forums/) - bbPress is focused on web standards, ease of use, ease of integration, and speed
 
