@@ -1,7 +1,26 @@
-![](images/awesome-forums.jpg)
+![]()
 
 # awesome-forums
- List of forum, Q&A, discussion and bulletin boards
+
+
+
+
+﻿<div align="center">
+<img src="https://github.com/alx-xlx/awesome-forums/raw/main/images/awesome-forums.jpg" alt="awesome-forums" height="">
+
+</div>
+<div align="center">
+
+<img src="https://img.shields.io/github/last-commit/alx-xlx/awesome-forums.svg?logo=Sublime+Text&logoColor=green&label=Active"/>
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/alx-xlx/awesome-forums">
+<img alt="awesome-forums-softwareheritage.org" src="https://archive.softwareheritage.org/badge/origin/https://github.com/alx-xlx/awesome-forums/"/>
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/alx-xlx/awesome-forums">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falx-xlx%2Fawesome-forums&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false"/>
+
+</div>
+
+
+List of forum, Q&A, discussion and bulletin boards
 
 [bbPress](http://bbpress.org/) | [Demo](https://bbpress.org/forums/) - bbPress is focused on web standards, ease of use, ease of integration, and speed
 
